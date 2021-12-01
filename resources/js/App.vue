@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-center mt-24">
-        <h1 class="text-2xl font-bold text-teal-700">Vue 3 App</h1>
-    </div>
+	<div id="app">
+		<router-view />
+	</div>
 </template>
